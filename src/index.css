@@ -8,6 +8,14 @@
 
   --color-gray-blue: #2b323f;
   --color-milk: #fdfdf1;
+
+  --breakpoint-xs: 30rem;
+}
+
+@layer components {
+  .section-container {
+    @apply max-w-[1200px] mx-auto px-6 md:px-12 py-16;
+  }
 }
 
 @layer base {
