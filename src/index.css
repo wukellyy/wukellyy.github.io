@@ -18,6 +18,12 @@
   }
 }
 
+@layer utilties {
+  .section-title {
+    @apply mb-7 border-b-3 border-orange-500 pb-2 text-3xl font-semibold;
+  }
+}
+
 @layer base {
   body {
     @apply font-poppins text-gray-blue;
