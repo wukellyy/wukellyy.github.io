@@ -28,4 +28,8 @@
   body {
     @apply font-poppins text-gray-blue;
   }
+
+  section {
+    @apply scroll-mt-24;
+  }
 }

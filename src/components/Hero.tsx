@@ -11,7 +11,7 @@ const Hero = () => {
   };
 
   return (
-    <section id="hero" className="bg-milk scroll-mt-24">
+    <section id="hero" className="bg-milk">
       <div className="section-container">
         <div className="min-h-[calc(100vh-210px)] flex flex-col-reverse xs:flex-col-reverse md:flex-row justify-center items-center gap-4 xs:gap-6 md:gap-4 lg:gap-12">
           {/* Text Content */}
