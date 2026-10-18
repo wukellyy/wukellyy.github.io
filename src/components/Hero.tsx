@@ -4,9 +4,9 @@ import ProfileImage from "../assets/profile.jpeg";
 const Hero = () => {
   const handleResumeClick = () => {
     window.open(
-      "https://drive.google.com/file/d/1kBMuBXS_zk581bolu7TZ1E9wKheSNxJw/preview",
+      "https://drive.google.com/file/d/1mSZQ0nxqO4JgO-gEyWixTfMQiPgegQ6y/preview",
       "_blank",
-      "noopener,noreferrer"
+      "noopener,noreferrer",
     );
   };
 

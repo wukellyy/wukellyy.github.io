@@ -1,8 +1,8 @@
 export const NAV_LINKS = ["About", "Skills", "Projects", "Contact"];
 
 export const SKILLS = [
-  "HTML5",
-  "CSS3",
+  "HTML",
+  "CSS",
   "JavaScript",
   "TypeScript",
   "React",
@@ -10,19 +10,19 @@ export const SKILLS = [
   "Bootstrap",
   "Node.js",
   "Express.js",
-  "Next.js",
   "Flask",
   "Python",
   "Java",
   "C/C++",
   "MySQL",
   "MongoDB",
+  "NumPy",
+  "Pandas",
   "Git",
   "GitHub",
   "GitHub Actions",
   "RESTful APIs",
   "Figma",
-  "Tableau",
 ];
 
 import MotiflyImg from "../assets/motifly.png";
@@ -65,8 +65,7 @@ export const PROJECTS = [
     description:
       "A full-stack web application for viewing Spotify track audio features. Integrates the Spotify Web API to let users search for songs, explore detailed audio statistics, and save tracks to a personalized bookmark library.",
     imageSrc: StatifyImg,
-    githubLink:
-      "https://github.com/nyu-csci-ua-0467-001-002-fall-2024/final-project-wukellyy",
+    githubLink: "https://github.com/wukellyy/Statify",
     tags: [
       "Express.js",
       "Node.js",
